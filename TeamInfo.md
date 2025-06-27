@@ -19,10 +19,10 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-|  Title      |       ProjectTitle     |
+|  Title      |       RecordSwap       |
 | System URL  |      link_to_system    |
 | Video Link  |      link_to_video     |
 
 ## Project Summary
 
-This is a summary of the project!
+Our project is essentially a digital shelf and marketplace for physical music media. Users will be able to see available physical music media for purchase and accompanying info like price and sellers. They will also be able to track their own physical music collection and view the collections of others. They will do this with a unique account to access their information. Additionally, if there is time we will implement an ordering feature, where users can wishlist specific media and be notified when it becomes available to purchase. 
